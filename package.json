@@ -3,6 +3,8 @@
   "version": "1.0.1",
   "description": "Node API SDK to interact with the Eoovi Platform API",
   "main": "index.js",
+  "homepage": "https://github.com/eoovi/eoovi-node-sdk",
+  "url": "https://eoovi.com",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
